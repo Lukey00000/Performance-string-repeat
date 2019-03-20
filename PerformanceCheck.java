@@ -1,4 +1,4 @@
-public class Question2 {
+public class PerformanceCheck {
 	
 	public static void main(String [] args) {
 		naiveRun();
